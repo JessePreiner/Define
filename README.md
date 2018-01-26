@@ -7,6 +7,6 @@ Will require working app_id and app_key for use with the `od-api.oxforddictionar
 
 # Usage
 Move define.exe to somewhere in your path, and run:
-  ```define <any> <number> <of> <words>
+  ```define <any> <number> <of> <words>```
   
  
